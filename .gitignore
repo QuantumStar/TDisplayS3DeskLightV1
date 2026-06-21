@@ -1,0 +1,9 @@
+# Ignore build artifacts and IDE files
+.pio
+.vscode/.browse.c_cpp.db*
+.vscode/launch.json
+.vscode/settings.json  # (keep if you want to share some settings)
+*.elf
+*.bin
+*.hex
+__pycache__/
